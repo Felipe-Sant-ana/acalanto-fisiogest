@@ -18,9 +18,9 @@ Este repositório contém o **ambiente de homologação** do sistema — com dad
 
 | Campo                  | Valor                     |
 | ---------------------- | ------------------------- |
-| 🌐 **Link do sistema** | _(link da Vercel)_        |
+| 🌐 **Link do sistema** | https://acalanto-fisiogest.vercel.app/        |
 | 📧 **Email de acesso** | *test.user@fisiogest.com* |
-| 🔑 **Senha**           | _Teste@1452_              |
+| 🔑 **Senha**           | *Teste@1452*             |
 
 > ⚠️ Qualquer pessoa com essas credenciais pode entrar e testar todas as funcionalidades. Os dados inseridos neste sistema devem ser exclusivamente fictícios, sendo proibido o uso de informações reais. Todos os dados podem ser alterados ou excluídos livremente a qualquer momento.
 
