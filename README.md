@@ -8,7 +8,10 @@ Este projeto faz parte do **Projeto Integrador III-B** do curso de Análise e De
 
 ## 🎥 Vídeo de Demonstração
 
-> _(link do vídeo)_
+Clique na imagem abaixo para ver o vídeo com a demonstração das principais telas e funcionalidades
+do sistema.
+
+[![Assista ao Vídeo Demonstrativo](https://img.youtube.com/vi/hq6kqX9BqpE/0.jpg)](https://www.youtube.com/watch?v=hq6kqX9BqpE)
 
 ---
 
